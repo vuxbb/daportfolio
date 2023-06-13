@@ -8,11 +8,22 @@ This repository serves to showcase my skills and as a platform to share my proje
 
 ## Table of Content
 - [About](#about)
-- [Portfolio Projects](#Porfolio-projects)
-- [Certificates](#certificates)
+- [Portfolio Projects](#portfolio-projects)
+- [Certificates](#Certificates)
 - [Contacts](#contacts)
 
 ## Portfolio Projects
+
+### Key DRM Monitor
+**Code:** [`KeyDRM.sql`](https://github.com/vuxbb/Key-DRM-Report/blob/main/KeyDRM.sql)     
+**Description:** The Business Department (BD) needs to calculate the budget of KeyDRM for the next quarter, so it is necessary to make statistics on the situation of DRM key issuance and usage to come up with a reasonable budget.    
+**Tool:** SQL Server   
+**Result:** Provide a list of 581 customers to help BD calculate a specific budget
+### RFM Analysis
+**Code:** [`RFMAnalysis.sql`](https://github.com/vuxbb/RFM/blob/main/results.sql)   
+**Description:**    
+**Tools:** SQL Server, PowerBI   
+**Result:**   
 ## Certificates
 
 ## Contacts
