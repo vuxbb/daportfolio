@@ -21,9 +21,14 @@ This repository serves to showcase my skills and as a platform to share my proje
 **Result:** Provide a list of 581 customers to help BD calculate a specific budget
 ### RFM Analysis
 **Code:** [`RFMAnalysis.sql`](https://github.com/vuxbb/RFM/blob/main/results.sql)   
-**Description:**    
+**Description:** Use data based on existing customer behavior to predict growth and lose based on RFM analyst.   
 **Tools:** SQL Server, PowerBI   
-**Result:**   
+**Results:** Build a dashboard showing the effectiveness of the campaign and make report on the use of RFM Analysis in Marketing.  
+### Uniace SEO
+**Code:**   
+**Description:** Evaluate the effectiveness of digital marketing campaigns on website uniace.vn based on available dataset   
+**Tools:** SQL Server,PowerBI, Python   
+**Results:** 
 ## Certificates
 
 ## Contacts
