@@ -8,12 +8,13 @@ This repository serves to showcase my skills and as a platform to share my proje
 
 ## Table of Content
 - [About](#about)
-- [Porfolio Projects](#Porfolio-projects)
+- [Portfolio Projects](#Porfolio-projects)
 - [Certificates](#certificates)
 - [Contacts](#contacts)
 
+## Portfolio Projects
 ## Certificates
 
-## Contects
+## Contacts
 - LinkedIn: [@vuxbb](https://www.linkedin.com/in/vuxbb/)
 - Email: vu.bb180396@gmail.com
