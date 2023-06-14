@@ -9,7 +9,7 @@ This repository serves to showcase my skills and as a platform to share my proje
 ## Table of Content
 - [About](#about)
 - [Portfolio Projects](#portfolio-projects)
-- [Certificates](#Certificates)
+- [Certificates](#certificates)
 - [Contacts](#contacts)
 
 ## Portfolio Projects
@@ -25,12 +25,14 @@ This repository serves to showcase my skills and as a platform to share my proje
 **Tools:** SQL Server, PowerBI   
 **Results:** Build a dashboard showing the effectiveness of the campaign and make report on the use of RFM Analysis in Marketing.  
 ### Uniace SEO
-**Code:**   
+**Code:** [`UniaceUnion.sql`](https://github.com/vuxbb/Uniace-SEO/blob/main/UniaceUnion.sql), [`GetLocationFromIP.ipynb`](https://github.com/vuxbb/Uniace-SEO/blob/main/.ipynb_checkpoints/Get_Location_From_IP-checkpoint.ipynb)  
 **Description:** Evaluate the effectiveness of digital marketing campaigns on website uniace.vn based on available dataset   
 **Tools:** SQL Server,PowerBI, Python   
-**Results:** 
-## Certificates
+**Results:** Visualization of the KPIs after the campaign ended
 
+## Certificates
+- [Tableau 2022 A-Z: Hands-On Tableau Training for Data Science](https://www.udemy.com/certificate/UC-7b9cdc37-446c-42d4-9482-aadf3be74180) (Udemy Jun 2023)
+- [Google Data Analytics](https://www.coursera.org/account/accomplishments/professional-cert/GHAPETZ3GMPK) (Coursea Apr 2023)
 ## Contacts
 - LinkedIn: [@vuxbb](https://www.linkedin.com/in/vuxbb/)
 - Email: vu.bb180396@gmail.com
